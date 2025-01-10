@@ -1,7 +1,5 @@
 # Security Enterprise Network Design
 
-This repository contains the design and implementation of a secure enterprise network using Cisco Packet Tracer. The project demonstrates a practical approach to building a robust, scalable, and secure network for enterprise use.
-
 ---
 
 ## 🚀 Purpose
