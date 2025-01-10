@@ -1,5 +1,5 @@
 # Security Enterprise Network Design
-
+![Secure Company Network Packet Tracer](https://res.cloudinary.com/dtsm9eluo/image/upload/v1736501723/security_enterprise_network_project_hxc1dh.png)
 ---
 
 ## 🚀 Purpose
